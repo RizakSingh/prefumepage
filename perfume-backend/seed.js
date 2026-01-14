@@ -38,7 +38,7 @@ const seedProducts = async () => {
         price: 2199,
         sizes: ["30ml", "50ml", "100ml"],
         images: [
-          "https://images.unsplash.com/photo-1600180758890-6b94519c05a5"
+          "https://alhassan.in/cdn/shop/files/Al_Hassan-1-Photoroom.jpg?v=1746597458"
         ]
       },
       {
@@ -56,7 +56,7 @@ const seedProducts = async () => {
         price: 2799,
         sizes: ["50ml", "100ml"],
         images: [
-          "https://images.unsplash.com/photo-1585386959984-a41552231693"
+          "https://imgs.search.brave.com/-R-iWkF9s9ni8yXOcz1x3h7fZJ6l9LiSl_r_h88P0aY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aW50ZW5zZW91ZC5j/b20vY2RuL3Nob3Av/ZmlsZXMvNF85OWY2/ZTk3My02YzRkLTRi/YTQtYmYyMy1kOWVj/MWIzOTg3NDdfbGFy/Z2UuanBnP3Y9MTcy/NTgxNTAzOA"
         ]
       }
     ]);
